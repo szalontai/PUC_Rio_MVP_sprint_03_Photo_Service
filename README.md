@@ -13,6 +13,7 @@ Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal
 
 
 > É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
+
 Para gerar o arquivo `requirements.txt` rode o comando abaixo.
 
 ```
